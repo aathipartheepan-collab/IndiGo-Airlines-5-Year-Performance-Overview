@@ -172,5 +172,5 @@ IndiGo-Airlines-Performance-Analysis/
 Aspiring Data Analyst
 
 - **Skills:** Add the tools and skills actually used in this project.
-- **GitHub:** www.linkedin.com/in/partheepan-s-305b962ab
+- **GitHub:** https://github.com/aathipartheepan-collab
 - **LinkedIn:** www.linkedin.com/in/partheepan-s-305b962ab
