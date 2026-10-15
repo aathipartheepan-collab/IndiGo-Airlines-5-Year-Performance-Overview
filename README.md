@@ -10,9 +10,6 @@ The dashboard is organised into four analytical areas:
 3. Passenger & Customer Satisfaction Analysis
 4. Aircraft Performance Analysis
 
-> **Note:** The descriptions below are based on the visible dashboard screenshots. Exact business conclusions should be validated against the underlying data and Power BI measures.
-
-## Dashboard Pages
 
 ### 1. Overall Performance Overview
 
@@ -141,16 +138,20 @@ Use this formula only if the source fields represent passengers flown and the co
 Add the actual exported dashboard screenshots to an `images` folder in this repository and update the filenames below if needed.
 
 ### Overall Performance Overview
-`![Overall Performance Overview](images/overview.png)`
+<img width="894" height="504" alt="Screenshot 2026-10-15 211509" src="https://github.com/user-attachments/assets/45fcf844-e64d-42a7-b78b-926eb216b4d4" />
+
 
 ### Flight Load Factor & Performance Analysis
-`![Flight Load Factor & Performance Analysis](images/load-factor-performance.png)`
+<img width="893" height="501" alt="Screenshot 2026-10-15 211539" src="https://github.com/user-attachments/assets/c1af0b4f-580f-4018-b485-0069829c131c" />
+
 
 ### Passenger & Customer Satisfaction Analysis
-`![Passenger & Customer Satisfaction Analysis](images/passenger-customer-analysis.png)`
+<img width="893" height="502" alt="Screenshot 2026-10-15 211617" src="https://github.com/user-attachments/assets/0b8b2072-a0ca-4fc6-94d0-9b623afe722b" />
+
 
 ### Aircraft Performance Analysis
-`![Aircraft Performance Analysis](images/aircraft-performance.png)`
+<img width="894" height="501" alt="Screenshot 2026-10-15 211640" src="https://github.com/user-attachments/assets/13bf2cad-a266-4661-a1e0-0a5deb31a0f1" />
+
 
 ## Repository Structure
 
@@ -171,5 +172,5 @@ IndiGo-Airlines-Performance-Analysis/
 Aspiring Data Analyst
 
 - **Skills:** Add the tools and skills actually used in this project.
-- **GitHub:** Add your GitHub profile URL.
-- **LinkedIn:** Add your LinkedIn profile URL.
+- **GitHub:** www.linkedin.com/in/partheepan-s-305b962ab
+- **LinkedIn:** www.linkedin.com/in/partheepan-s-305b962ab
